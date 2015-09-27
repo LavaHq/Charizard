@@ -2,6 +2,7 @@
 A python API built on top of Chassis
 
 ## Set up
+- [ ] Proper Git permissions
 - [ ] Code Climate
 - [ ] Travis
 - [ ] Makefile
@@ -16,6 +17,7 @@ A python API built on top of Chassis
 - [ ] NginX setup
 - [ ] Implement Request Throttling
 - [ ] Linter
+- [ ] New Relic
 
 ### Python Topics to implement while developing
 - [ ] `Collections.abc` for creating custom container types
