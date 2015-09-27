@@ -18,6 +18,7 @@ A python API built on top of Chassis
 - [ ] Linter
 - [ ] New Relic
 - [ ] `sphinx`
+- [ ] Google Analytics
 - [ ] Implement Request Throttling
 
 ### Python Topics to implement while developing
