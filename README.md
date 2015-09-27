@@ -15,9 +15,9 @@ A python API built on top of Chassis
 - [ ] pre-commit hook
 - [ ] clean and meaningful commits
 - [ ] Make use of git milestones
-- [ ] Implement Request Throttling
 - [ ] Linter
 - [ ] New Relic
+- [ ] Implement Request Throttling
 
 ### Python Topics to implement while developing
 - [ ] `Collections.abc` for creating custom container types
