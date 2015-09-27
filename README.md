@@ -1,6 +1,9 @@
 # Charizard
 A python API built on top of Chassis
 
+## Apps Supported by Charizard
+* Coming soon....
+
 ## Set up
 - [ ] Proper Git permissions
 - [ ] Git Milestones
