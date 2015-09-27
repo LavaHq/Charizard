@@ -3,6 +3,8 @@ A python API built on top of Chassis
 
 ## Set up
 - [ ] Proper Git permissions
+- [ ] Git Milestones
+- [ ] Git Labels
 - [ ] Vagrant
 - [ ] Code Climate
 - [ ] Travis
@@ -14,7 +16,6 @@ A python API built on top of Chassis
 - [ ] Specify a Sub-domain
 - [ ] pre-commit hook
 - [ ] clean and meaningful commits
-- [ ] Make use of git milestones
 - [ ] Linter
 - [ ] New Relic
 - [ ] `sphinx`
