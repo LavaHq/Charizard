@@ -17,6 +17,7 @@ A python API built on top of Chassis
 - [ ] Make use of git milestones
 - [ ] Linter
 - [ ] New Relic
+- [ ] `sphinx`
 - [ ] Implement Request Throttling
 
 ### Python Topics to implement while developing
@@ -28,7 +29,6 @@ A python API built on top of Chassis
 - [ ] Validation
 - [ ] How to match off of memory Address in python
 - [ ] `__all__` to specify what is available externally
-- [ ] `sphinx`
 - [ ] `doctest`
 - [ ] use `__init__.py` to its full potential
 - [ ] strict rules for using docstring
