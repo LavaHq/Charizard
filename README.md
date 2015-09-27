@@ -3,6 +3,7 @@ A python API built on top of Chassis
 
 ## Set up
 - [ ] Proper Git permissions
+- [ ] Vagrant
 - [ ] Code Climate
 - [ ] Travis
 - [ ] Makefile
@@ -11,7 +12,6 @@ A python API built on top of Chassis
 - [ ] Test Coverage
 - [ ] NginX setup
 - [ ] Specify a Sub-domain
-- [ ] Vagrant
 - [ ] pre-commit hook
 - [ ] clean and meaningful commits
 - [ ] Make use of git milestones
