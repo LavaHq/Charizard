@@ -9,12 +9,12 @@ A python API built on top of Chassis
 - [ ] License
 - [ ] `Contributing.md`
 - [ ] Test Coverage
+- [ ] NginX setup
 - [ ] Specify a Sub-domain
 - [ ] Create an enviroment that can be spun up on any machine, and is enviroment concious
 - [ ] pre-commit hook
 - [ ] clean and meaningful commits
 - [ ] Make use of git milestones
-- [ ] NginX setup
 - [ ] Implement Request Throttling
 - [ ] Linter
 - [ ] New Relic
