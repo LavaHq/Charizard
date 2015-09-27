@@ -11,7 +11,7 @@ A python API built on top of Chassis
 - [ ] Test Coverage
 - [ ] NginX setup
 - [ ] Specify a Sub-domain
-- [ ] Create an enviroment that can be spun up on any machine, and is enviroment concious
+- [ ] Vagrant
 - [ ] pre-commit hook
 - [ ] clean and meaningful commits
 - [ ] Make use of git milestones
