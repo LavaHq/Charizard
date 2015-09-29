@@ -5,9 +5,9 @@ A python API built on top of Chassis
 * Coming soon....
 
 ## Set up
-- [ ] Proper Git permissions
-- [ ] Git Milestones
-- [ ] Git Labels
+- [X] Proper Git permissions
+- [X] Git Milestones
+- [X] Git Labels
 - [ ] Vagrant
 - [ ] Code Climate
 - [x] Travis
