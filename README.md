@@ -5,13 +5,14 @@ A python API built on top of Chassis
 * Coming soon....
 
 ## Set up
-- [ ] Proper Git permissions
-- [ ] Git Milestones
-- [ ] Git Labels
+- [X] Proper Git permissions
+- [X] Git Milestones
+- [X] Git Labels
 - [ ] Vagrant
 - [ ] Code Climate
 - [ ] Use Python 3.5
-- [ ] Travis
+- [x] Travis
+- [ ] Travis Badge in `README.md`
 - [ ] Makefile
 - [ ] License
 - [ ] `Contributing.md`
