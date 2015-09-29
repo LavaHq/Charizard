@@ -10,7 +10,7 @@ A python API built on top of Chassis
 - [ ] Git Labels
 - [ ] Vagrant
 - [ ] Code Climate
-- [ ] Travis
+- [x] Travis
 - [ ] Travis Badge in `README.md`
 - [ ] Makefile
 - [ ] License
