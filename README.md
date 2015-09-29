@@ -1,18 +1,20 @@
 # Charizard
 A python API built on top of Chassis
 
+[![Build Status](https://travis-ci.org/Hawt-Lava/Charizard.svg?branch=master)](https://travis-ci.org/Hawt-Lava/Charizard)
+
 ## Apps Supported by Charizard
 * Coming soon....
 
 ## Set up
-- [X] Proper Git permissions
-- [X] Git Milestones
-- [X] Git Labels
+- [x] Proper Git permissions
+- [x] Git Milestones
+- [x] Git Labels
 - [ ] Vagrant
 - [ ] Code Climate
 - [ ] Use Python 3.5
 - [x] Travis
-- [ ] Travis Badge in `README.md`
+- [x] Travis Badge in `README.md`
 - [ ] Makefile
 - [ ] License
 - [ ] `Contributing.md`
