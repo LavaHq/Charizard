@@ -1,7 +1,7 @@
 # Charizard
 A python API built on top of Chassis
 
-[![Build Status](https://travis-ci.org/Hawt-Lava/Charizard.svg?branch=master)](https://travis-ci.org/Hawt-Lava/Charizard)
+[![Build Status](https://travis-ci.org/Hawt-Lava/Charizard.svg?branch=master)](https://travis-ci.org/Hawt-Lava/Charizard) [![Code Climate](https://codeclimate.com/repos/5609ec596956801c6d000642/badges/d585a99014fd0d5a38db/gpa.svg)](https://codeclimate.com/repos/5609ec596956801c6d000642/feed)
 
 ## Apps Supported by Charizard
 * Coming soon....
@@ -11,7 +11,7 @@ A python API built on top of Chassis
 - [x] Git Milestones
 - [x] Git Labels
 - [ ] Vagrant
-- [ ] Code Climate
+- [x] Code Climate
 - [ ] Use Python 3.5
 - [x] Travis
 - [x] Travis Badge in `README.md`
