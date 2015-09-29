@@ -11,6 +11,7 @@ A python API built on top of Chassis
 - [ ] Vagrant
 - [ ] Code Climate
 - [ ] Travis
+- [ ] Travis Badge in `README.md`
 - [ ] Makefile
 - [ ] License
 - [ ] `Contributing.md`
