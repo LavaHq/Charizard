@@ -11,7 +11,8 @@ A python API built on top of Chassis
 - [x] Git Milestones
 - [x] Git Labels
 - [ ] Vagrant
-- [ ] Code Climate
+- [ ] `setup.py`
+- [X] ~~Code Climate~~
 - [x] Use Python 3.5
 - [x] Travis
 - [x] Travis Badge in `README.md`
