@@ -49,3 +49,7 @@ A python API built on top of Chassis
 - [ ] make use of generators whenever possible
 - [ ] `__setattr__`
 - [ ] Spell Checker for Doc Blocks
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Hawt-Lava/charizard/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
