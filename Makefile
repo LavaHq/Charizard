@@ -1,8 +1,8 @@
 lint:
-    python bin/linter.py
+	python bin/linter.py
 
 install:
-    pip install -r requirements.txt
+	pip install -r requirements.txt
 
 test:
-    cd tests/ && nosetests
+	cd tests/ && nosetests
