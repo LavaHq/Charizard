@@ -44,7 +44,6 @@ SUPRESSED_MESSAGES = [
 
 pylint_output = StringIO()
 pylint_reporter = TextReporter(output=pylint_output)
-exit()
 PARAMS = [
     '--reports=n',
     '--disable=%s' % ",".join(SUPRESSED_MESSAGES),
