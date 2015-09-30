@@ -7,7 +7,7 @@ import sys
 
 from pylint.reporters.text import TextReporter
 from io import StringIO
-sys.path.append('/var/charizard')
+sys.path.append('/var/charizard/src')
 
 # check if pylint is installed and import it
 try:
