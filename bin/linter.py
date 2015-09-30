@@ -6,14 +6,14 @@ import re
 import sys
 
 from pylint.reporters.text import TextReporter
-from cStringIO import StringIO
+from io import StringIO
 sys.path.append('/var/charizard/src')
 
 # check if pylint is installed and import it
 try:
     from pylint import lint
 except ImportError:
-    print "Can't import module pylint. Did you install it?"
+    print("Can't import module pylint. Did you install it?")
     sys.exit(-1)
 
 # either use the files given on the command line or all '*.py' files
@@ -61,12 +61,14 @@ if list_flag:
     for module in result:
         linted_files = linted_files | set([module])
     if linted_files:
-        print 'Lint Covered Files:'
+        print ('Lint Covered Files:')
     else:
-        print 'All files are Dry-Cleaned, Ironed, and Linted'
+        print ('All files are Dry-Cleaned, Ironed, and Linted')
+    print(linted_files)
+    exit()
     for module in linted_files:
-        print '\t%s' % module
-    print ''
+        print ('\t%s' % module)
+    print('')
 else:
     for file_ in FILES:
         os.system('pep8 %s' % (file_,))
