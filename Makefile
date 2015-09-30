@@ -6,3 +6,4 @@ install:
 
 test:
 	cd tests/ && nosetests
+	
