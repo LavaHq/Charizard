@@ -7,8 +7,7 @@ import sys
 
 from pylint.reporters.text import TextReporter
 from io import StringIO
-sys.path.append('/var/charizard/src')
-
+sys.path.append('/src')
 # check if pylint is installed and import it
 try:
     from pylint import lint
@@ -30,8 +29,12 @@ if argc > 1:
     else:
         FILES = sys.argv[1:argc]
 
+
+dirs =[('/Users/daniel.habib/Documents/charizard-virtual/charizard/src', [], []),
+('/Users/daniel.habib/Documents/charizard-virtual/charizard/tests', [], [])]
+
 if list_flag or argc <= 1:
-    for dirpath, dirnames, filenames in os.walk(os.getcwd()):
+    for dirpath, dirnames, filenames in dirs:
         FILES.extend(
             os.path.join(dirpath, filename)
             for filename in filenames
