@@ -44,7 +44,7 @@ SUPRESSED_MESSAGES = [
 
 pylint_output = StringIO()
 pylint_reporter = TextReporter(output=pylint_output)
-
+exit()
 PARAMS = [
     '--reports=n',
     '--disable=%s' % ",".join(SUPRESSED_MESSAGES),
@@ -65,7 +65,6 @@ if list_flag:
     else:
         print ('All files are Dry-Cleaned, Ironed, and Linted')
     print(linted_files)
-    exit()
     for module in linted_files:
         print ('\t%s' % module)
     print('')
