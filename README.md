@@ -16,18 +16,23 @@ A python API built on top of Chassis
 - [x] Use Python 3.5
 - [x] Travis
 - [x] Travis Badge in `README.md`
+- [ ] Waffle or Trello?
 - [ ] Makefile
 - [ ] License
+- [ ] /tools
 - [ ] `Contributing.md`
+- [ ] `CHANGELOG`
 - [ ] Test Coverage
+- [ ] `CONTRIBUTORS.md`
 - [ ] NginX setup
 - [ ] Specify a Sub-domain
 - [ ] pre-commit hook
 - [ ] clean and meaningful commits
+- [ ] `Exceptions`
 - [ ] Linter
-- [ ] New Relic
+- [ ] New Relic or Google Analytics
 - [ ] `sphinx`
-- [ ] Google Analytics
+- [ ] Api Docs
 - [ ] Implement Request Throttling
 
 ### Python Topics to implement while developing
