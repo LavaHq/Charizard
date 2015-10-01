@@ -14,6 +14,7 @@ A python API built on top of Chassis
 - [ ] `setup.py`
 - [X] ~~Code Climate~~
 - [x] Use Python 3.5
+- [ ] What Features of Python 3.5 are we leveraging? Maintain in a docs dir
 - [x] Travis
 - [x] Travis Badge in `README.md`
 - [ ] Bit Deli?
