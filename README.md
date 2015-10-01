@@ -16,6 +16,7 @@ A python API built on top of Chassis
 - [x] Use Python 3.5
 - [x] Travis
 - [x] Travis Badge in `README.md`
+- [ ] Bit Deli?
 - [ ] Waffle or Trello?
 - [ ] Makefile
 - [ ] License
