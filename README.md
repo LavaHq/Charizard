@@ -1,8 +1,7 @@
-[![Stories in Ready](https://badge.waffle.io/Hawt-Lava/Charizard.png?label=ready&title=Ready)](https://waffle.io/Hawt-Lava/Charizard)
+[![Build Status](https://travis-ci.org/Hawt-Lava/Charizard.svg?branch=master)](https://travis-ci.org/Hawt-Lava/Charizard)
+ [![Stories in Ready](https://badge.waffle.io/Hawt-Lava/Charizard.png?label=ready&title=Ready)](https://waffle.io/Hawt-Lava/Charizard) [![Coverage Status](https://coveralls.io/repos/Hawt-Lava/Charizard/badge.svg?branch=master&service=github)](https://coveralls.io/github/Hawt-Lava/Charizard?branch=master)
 # Charizard
 A python API built on top of Chassis
-
-[![Build Status](https://travis-ci.org/Hawt-Lava/Charizard.svg?branch=master)](https://travis-ci.org/Hawt-Lava/Charizard)
 
 ## Apps Supported by Charizard
 * Coming soon....
@@ -17,18 +16,24 @@ A python API built on top of Chassis
 - [x] Use Python 3.5
 - [x] Travis
 - [x] Travis Badge in `README.md`
+- [ ] Bit Deli?
+- [ ] Waffle or Trello?
 - [ ] Makefile
 - [ ] License
+- [ ] /tools
 - [ ] `Contributing.md`
+- [ ] `CHANGELOG`
 - [ ] Test Coverage
+- [ ] `CONTRIBUTORS.md`
 - [ ] NginX setup
 - [ ] Specify a Sub-domain
 - [ ] pre-commit hook
 - [ ] clean and meaningful commits
+- [ ] `Exceptions`
 - [ ] Linter
-- [ ] New Relic
+- [ ] New Relic or Google Analytics
 - [ ] `sphinx`
-- [ ] Google Analytics
+- [ ] Api Docs
 - [ ] Implement Request Throttling
 
 ### Python Topics to implement while developing
