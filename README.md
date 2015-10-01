@@ -1,8 +1,7 @@
-[![Stories in Ready](https://badge.waffle.io/Hawt-Lava/Charizard.png?label=ready&title=Ready)](https://waffle.io/Hawt-Lava/Charizard)
+[![Build Status](https://travis-ci.org/Hawt-Lava/Charizard.svg?branch=master)](https://travis-ci.org/Hawt-Lava/Charizard)
+ [![Stories in Ready](https://badge.waffle.io/Hawt-Lava/Charizard.png?label=ready&title=Ready)](https://waffle.io/Hawt-Lava/Charizard)
 # Charizard
 A python API built on top of Chassis
-
-[![Build Status](https://travis-ci.org/Hawt-Lava/Charizard.svg?branch=master)](https://travis-ci.org/Hawt-Lava/Charizard)
 
 ## Apps Supported by Charizard
 * Coming soon....
