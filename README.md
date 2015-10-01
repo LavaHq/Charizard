@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Hawt-Lava/Charizard.png?label=ready&title=Ready)](https://waffle.io/Hawt-Lava/Charizard)
 # Charizard
 A python API built on top of Chassis
 
@@ -55,3 +56,7 @@ A python API built on top of Chassis
 - [ ] make use of generators whenever possible
 - [ ] `__setattr__`
 - [ ] Spell Checker for Doc Blocks
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Hawt-Lava/charizard/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
