@@ -1,2 +1,2 @@
-""" A Home for all of our test """
+""" A Home for all of our tests """
 
