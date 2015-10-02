@@ -2,3 +2,4 @@ pyvenv.cfg
 bin
 lib
 pip-selfcheck.json
+*.pyc
