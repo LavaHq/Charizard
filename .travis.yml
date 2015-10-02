@@ -9,5 +9,6 @@ install:
     - pip install -r requirements.txt
 
 script:
-    - python ./bin/linter.py
+    - pylint src/
+    - pylint tests/
     - cd tests/ && nosetests
