@@ -21,7 +21,7 @@ A python API built on top of Chassis
 - [ ] Makefile
 - [ ] License
 - [ ] /tools
-- [ ] `Contributing.md`
+- [x] `Contributing.md`
 - [ ] `CHANGELOG`
 - [ ] Test Coverage
 - [ ] `CONTRIBUTORS.md`
