@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# charizard documentation build configuration file, created by
-# sphinx-quickstart on Sat Oct  3 11:51:33 2015.
+# Charizard documentation build configuration file, created by
+# sphinx-quickstart on Sat Oct  3 11:59:44 2015.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -51,7 +51,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'charizard'
+project = u'Charizard'
 copyright = u'2015, Daniel Habib Andrew Demoleas'
 author = u'Daniel Habib Andrew Demoleas'
 
@@ -205,7 +205,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'charizarddoc'
+htmlhelp_basename = 'Charizarddoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -227,7 +227,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'charizard.tex', u'charizard Documentation',
+  (master_doc, 'Charizard.tex', u'Charizard Documentation',
    u'Daniel Habib Andrew Demoleas', 'manual'),
 ]
 
@@ -257,7 +257,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'charizard', u'charizard Documentation',
+    (master_doc, 'charizard', u'Charizard Documentation',
      [author], 1)
 ]
 
@@ -271,8 +271,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'charizard', u'charizard Documentation',
-   author, 'charizard', 'One line description of project.',
+  (master_doc, 'Charizard', u'Charizard Documentation',
+   author, 'Charizard', 'One line description of project.',
    'Miscellaneous'),
 ]
 

@@ -3,3 +3,6 @@ bin
 lib
 pip-selfcheck.json
 *.pyc
+_build
+_static
+_templates
