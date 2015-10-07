@@ -9,6 +9,9 @@ Coding is never complete and there are always new things to add and old things t
 ## Making Changes
 - Create a branch off of the topic that you would like to work
  + This is usally the master branch
+ + Please avoid working directly on the master branch
+- Please name branches as 'type of edit'/'name of edit'
+ + Ex. fix/RemoveBug or feature/addButton
 - Make sure you have all the neccessary tests
 - Run all the tests and make sure that everything is successful
 
