@@ -10,18 +10,18 @@ A python API built on top of Chassis
 - [x] Proper Git permissions
 - [x] Git Milestones
 - [x] Git Labels
-- [X] Vagrant
+- [x] Vagrant
 - [ ] `setup.py`
-- [X] ~~Code Climate~~
+- [x] ~~Code Climate~~
 - [x] Use Python 3.5
 - [x] Travis
 - [x] Travis Badge in `README.md`
 - [ ] Bit Deli?
 - [ ] Waffle or Trello?
-- [X] Makefile
-- [ ] License
-- [X] /tools
-- [ ] `Contributing.md`
+- [x] Makefile
+- [x] License
+- [x] /tools
+- [x] `Contributing.md`
 - [ ] `CHANGELOG`
 - [ ] Test Coverage
 - [ ] `CONTRIBUTORS.md`
@@ -32,7 +32,7 @@ A python API built on top of Chassis
 - [ ] `Exceptions`
 - [ ] Linter
 - [ ] New Relic or Google Analytics
-- [X] `sphinx`
+- [x] `sphinx`
 - [ ] Api Docs
 - [ ] Implement Request Throttling
 
