@@ -19,9 +19,9 @@ A python API built on top of Chassis
 - [ ] Bit Deli?
 - [ ] Waffle or Trello?
 - [x] Makefile
-- [ ] License
+- [x] License
 - [x] /tools
-- [ ] `Contributing.md`
+- [x] `Contributing.md`
 - [ ] `CHANGELOG`
 - [ ] Test Coverage
 - [ ] `CONTRIBUTORS.md`
