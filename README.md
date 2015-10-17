@@ -16,25 +16,19 @@ A python API built on top of Chassis
 - [x] Use Python 3.5
 - [x] Travis
 - [x] Travis Badge in `README.md`
-- [ ] Bit Deli?
-- [ ] Waffle or Trello?
+- [x] Bit Deli?
+- [x] Waffle or Trello?
 - [x] Makefile
 - [x] License
 - [x] /tools
 - [x] `Contributing.md`
 - [x] `CHANGELOG`
-- [ ] Test Coverage
-- [ ] `CONTRIBUTORS.md`
-- [ ] NginX setup
-- [ ] Specify a Sub-domain
+- [x] Test Coverage
+- [x] `CONTRIBUTING.md`
 - [ ] pre-commit hook
-- [ ] clean and meaningful commits
 - [ ] `Exceptions`
-- [ ] Linter
-- [ ] New Relic or Google Analytics
+- [x] Linter
 - [x] `sphinx`
-- [ ] Api Docs
-- [ ] Implement Request Throttling
 
 ### Python Topics to implement while developing
 - [ ] `Collections.abc` for creating custom container types
@@ -53,9 +47,5 @@ A python API built on top of Chassis
 - [ ] Meta Classes
 - [ ] Abstract Classes
 - [ ] make use of generators whenever possible
-- [ ] `__setattr__`
 - [ ] Spell Checker for Doc Blocks
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Hawt-Lava/charizard/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
