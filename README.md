@@ -22,7 +22,7 @@ A python API built on top of Chassis
 - [x] License
 - [x] /tools
 - [x] `Contributing.md`
-- [ ] `CHANGELOG`
+- [x] `CHANGELOG`
 - [ ] Test Coverage
 - [ ] `CONTRIBUTORS.md`
 - [ ] NginX setup
