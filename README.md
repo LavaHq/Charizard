@@ -25,7 +25,6 @@ A python API built on top of Chassis
 - [x] `CHANGELOG`
 - [x] Test Coverage
 - [x] `CONTRIBUTING.md`
-- [ ] pre-commit hook
 - [x] `Exceptions`
 - [x] Linter
 - [x] `sphinx`
