@@ -11,7 +11,7 @@ A python API built on top of Chassis
 - [x] Git Milestones
 - [x] Git Labels
 - [x] Vagrant
-- [ ] `setup.py`
+- [x] `setup.py`
 - [x] ~~Code Climate~~
 - [x] Use Python 3.5
 - [x] Travis
