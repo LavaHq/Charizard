@@ -1,1 +1,1 @@
-""" Source Files, and a location for Global Imports """
+"""A link between the user and the API"""
