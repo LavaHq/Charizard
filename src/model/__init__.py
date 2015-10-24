@@ -1,1 +1,1 @@
-"""Stores data from cotroller"""
+"""Place to store all our entities"""
