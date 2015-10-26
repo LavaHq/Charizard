@@ -1,8 +1,7 @@
-from node import NodeInterface
-
+from src.model.flare.node import NodeInterface
 
 class Team(NodeInterface):
-
+    """Represents a Team Member and All associated MetaData"""
     def __init__(self,
                  name=None,
                  desc=None,

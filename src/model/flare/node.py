@@ -11,4 +11,4 @@ class NodeInterface:
 
     def methodx(self):
         """ sdkagfjhds """
-        raise NotImplemented
+        raise NotImplementedError
