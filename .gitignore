@@ -6,3 +6,4 @@ pip-selfcheck.json
 _build
 _static
 _templates
+.idea
