@@ -1,13 +1,17 @@
 import tornado.ioloop
-import tornado.web
+
+from controller.entry_controller import EntryHandler
+
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
         self.write("Hello, world")
 
+
 def make_app():
     return tornado.web.Application([
         (r"/", MainHandler),
+        (r"/entries", EntryHandler),
     ])
 
 if __name__ == "__main__":
